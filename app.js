@@ -38,12 +38,12 @@ const songs = [
     },
     {
         id:"7",
-        songName: `Agar Tum Sath Ho <br><div class="subtitle">Tamashaa</div>`,
+        songName: `Alien Hand Title <br><div class="subtitle">Tamashaa</div>`,
         poster: "img/7.jpg",
     },
     {
         id:"8",
-        songName: `Suna Hai <br><div class="subtitle">Neha Kakker</div>`,
+        songName: `Sudarshan Dhari <br><div class="subtitle">Neha Kakker</div>`,
         poster: "img/8.jpg",
     },
     {
