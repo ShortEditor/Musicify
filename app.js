@@ -23,7 +23,7 @@ const songs = [
     },
     {
         id:"4",
-        songName: `Sudarshan Dhari <br><div class="subtitle">Naga Ganesh</div>`,
+        songName: `ALien Hand Title <br><div class="subtitle">Naga Ganesh</div>`,
         poster: "img/4.jpg",
     },
     {
