@@ -43,7 +43,7 @@ const songs = [
     },
     {
         id:"8",
-        songName: `Sudarshan Dhari <br><div class="subtitle">Naga Ganesh</div>`,
+        songName: `Alien Hand Title <br><div class="subtitle">Naga Ganesh</div>`,
         poster: "img/8.jpg",
     },
     {
